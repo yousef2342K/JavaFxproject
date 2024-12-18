@@ -7,7 +7,7 @@ package sec6_db;
 
 /**
  *
- * @author NorhanNasr
+ * @author joekhalid
  */
 public class Student {
     
