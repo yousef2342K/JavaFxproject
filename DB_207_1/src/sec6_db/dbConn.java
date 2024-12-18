@@ -16,7 +16,7 @@ import java.sql.DriverManager;
 
 /**
  *
- * @author NorhanNasr
+ * @author joekhalid
  */
 public class dbConn {
      public static Connection DBConnection() {
